@@ -1,4 +1,4 @@
-# desafio-01-ignite-reactjs
+# desafio-03-ignite-reactjs
 
 In this challenge React concepts create an application to train what I have learned so far , This will be an application where your main goal is to create a shopping cart hook.
 
