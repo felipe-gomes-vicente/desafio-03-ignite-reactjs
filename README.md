@@ -1,4 +1,4 @@
-# desafio-03-ignite-reactjs
+# Desafio 03 ignite RocketShoes
 
 In this challenge React concepts create an application to train what I have learned so far , This will be an application where your main goal is to create a shopping cart hook.
 
@@ -10,7 +10,7 @@ In this challenge React concepts create an application to train what I have lear
 <br>
 
 ##### Application developed In this challenge React concepts create an application to train what I have learned so far , 
-This will be an application where your main goal is to create a shopping cart hook. We will have access to two pages, a component, and a hook to implement the functionality requested in this challenge:
+This will be an application RocketShoes where your main goal is to create a shopping cart hook. We will have access to two pages, a component, and a hook to implement the functionality requested in this challenge:
 - Add a new product to the cart;
 - Remove a product from your cart;
 - Changing the quantity of a product in the cart;
