@@ -59,13 +59,16 @@ $ yarn server
 # Start the project
 $ yarn start
 ```
-The app will be available for access on your browser at http://localhost:3000
-Server Home
-http://localhost:3333
-The app will be available for access on your server at http://localhost:3333
-To load server
-http://localhost:3333/stock
-http://localhost:3333/products
+
+<h4>Start</h4>
+<p>The app will be available for access on your browser at http://localhost:3000 </p>
+
+<h4>Server Home</h4>
+<p>The app will be available for access on your server at http://localhost:3333</p>
+
+<h4>To load server</h4>
+<p>http://localhost:3333/stock</p>
+<p>http://localhost:3333/products</p>
 
 ## 📝 License
 
